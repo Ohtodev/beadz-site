@@ -1,2 +1,4 @@
 # beadz-site
-Beadz Marketing
+Beadz App - Prayer Companion Marketing
+
+google.com, pub-9748001491420156, DIRECT, f08c47fec0942fa0
